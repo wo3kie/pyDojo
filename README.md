@@ -15,4 +15,8 @@ scipy
 
 **1. solve.linear.system.py**  
 Implement a program to solve linear system using numpy.  
+  
+**2. graph.py**  
+Implement a program do draw a simple function with matplotlib.  
+  
 
