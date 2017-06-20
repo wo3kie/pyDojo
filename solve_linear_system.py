@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 #
 # Website:
 #     https://github.com/wo3kie/pyDojo
@@ -6,7 +8,7 @@
 #     Lukasz Czerwinski
 #
 # Usage:
-#     $ ./python solve.linear.system.py
+#     $ ./solve_linear_system.py
 #
 
 import numpy as np

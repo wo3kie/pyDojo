@@ -13,16 +13,18 @@ scipy
 
 ## List of puzzles  
 
-**1. solve.linear.system.py**  
+**1. solve_linear_system.py**  
 Implement a program to solve linear system using numpy.  
   
-**2. graph.py**  
+**2. plot.py**  
 Implement a program do draw a simple function with matplotlib.  
   
-3. decorator.py  
+**3. decorator.py**  
 Implement a program to demonstrate how to define and use decorators.  
   
-4. generator.py  
+**4. generator.py**  
 Implement a program to demonstrate how to define and use generator.  
   
+**dir_walk.py**  
+Implement a program to iterate through directory tree recursively.  
 

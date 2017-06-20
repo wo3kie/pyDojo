@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 #
 # Website:
 #     https://github.com/wo3kie/pyDojo
@@ -6,7 +8,7 @@
 #     Lukasz Czerwinski
 #
 # Usage:
-#     $ ./python graph.py
+#     $ ./plot.py
 #
 
 import matplotlib as mpl
