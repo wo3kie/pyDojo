@@ -25,6 +25,16 @@ Implement a program to demonstrate how to define and use decorators.
 **4. generator.py**  
 Implement a program to demonstrate how to define and use generator.  
   
-**dir_walk.py**  
+**5. dir_walk.py**  
 Implement a program to iterate through directory tree recursively.  
+  
+**6. metaclass.py**  
+Implement a program to demonstrate how to use metaclass.  
+  
+**7. iterator.py**  
+Implement a program to demonstrate how to define and use iterator.  
+  
+**8. assert.py**  
+Implement assert function.  
+  
 
